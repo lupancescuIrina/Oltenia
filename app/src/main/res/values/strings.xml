@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Oltenia</string>
+    <string name="app_slogan">Veni, Vedi, Amavi</string>
+    <string name="ave_i_deja_un_cont_loga_i_v">Aveți deja un cont? Logați-vă!</string>
+    <string name="creeaza_un_cont">Creează un cont!</string>
+    <string name="todo">TODO</string>
+    <string name="phone_number">Număr de telefon</string>
+    <string name="password">Parolă</string>
+    <string name="aminteste">Ţine-mă minte!</string>
+    <string name="parola_uitata">Ai uitat parola?</string>
+    <string name="login">Loghează-te!</string>
+    <string name="admin">Eşti administrator?</string>
+    <string name="name">Nume, Prenume</string>
+    <string name="logout"> Deconectare </string>
+    <string name="notadmin">Nu eşti administrator?</string>
+    <string name="logheaza_te_ca_admin">Loghează-te ca admin</string>
+    <string name="add">Adaugă locuri noi</string>
+    <string name="museum_ro">Muzee</string>
+    <string name="cazare">Cazare</string>
+    <string name="parcuri">Parcuri</string>
+    <string name="fun">Timp Liber</string>
+    <string name="churches">Biserici şi Mănăstiri</string>
+    <string name="restaurante">Restaurante</string>
+    <string name="utile">Utile</string>
+    <string name="numeloc">Numele Locatiei</string>
+    <string name="descriere">Descriere</string>
+    <string name="jud">Locaţie</string>
+    <string name="inf">Informaţii</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="username">Numele Utilizatorului</string>
+    <string name="numelocatie">Numele Locatiei</string>
+    <string name="numekm"> Km</string>
+    <string name="numedescriere">Descrierea locatiei</string>
+    <string name="foto">Fotografia locatiei</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="parculnicolaeromanescu">Parcul Nicolae Romanescu din Craiova este cel mai mare și mai cunoscut parc al orașului, fiind declarat monument istoric cu codul DJ-II-a-A-07924.
+
+La inițiativa lui Nicolae P. Romanescu, primarul Craiovei de la acea vreme, parcul a fost proiectat de arhitectul francez Édouard Redont. În 1900, planurile parcului au fost medaliate cu aur la Expoziția Universală de la Paris (1900).</string>
+    <string name="nameparcRoman">Parcul Nicolae Romanescu</string>
+    <string name="viziteaza">Vizitează!</string>
+    <string name="vizitat">Am vizitat</string>
+    <string name="info">Pentru mai multe informații, vă rog contactați administratorul!                 0767272098</string>
+
+</resources>

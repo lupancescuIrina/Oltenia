@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "935489946645",
+    "firebase_url": "https://oltenia-ca014.firebaseio.com",
+    "project_id": "oltenia-ca014",
+    "storage_bucket": "oltenia-ca014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935489946645:android:ccfd32ef48cfe836",
+        "android_client_info": {
+          "package_name": "com.example.oltenia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935489946645-redj7tj17fpmh4oenjskukn6ng70ls3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oltenia",
+            "certificate_hash": "69a408d2922fefde8c7d3d6591c0be45410e0c56"
+          }
+        },
+        {
+          "client_id": "935489946645-dhlgsn17ss64gnt5qlo2bqdprd38pa5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5L07VDtY4RENTg2ZG4ob3msO2EiU6dV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935489946645-dhlgsn17ss64gnt5qlo2bqdprd38pa5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
